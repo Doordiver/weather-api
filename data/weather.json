@@ -20,18 +20,18 @@
     "pressure": 1009,
     "humidity": 93,
     "sea_level": 1009,
-    "grnd_level": 1009
+    "grnd_level": 1008
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.29,
-    "deg": 333,
-    "gust": 1.79
+    "speed": 1.39,
+    "deg": 236,
+    "gust": 2.09
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1781897286,
+  "dt": 1781902979,
   "sys": {
     "type": 2,
     "id": 2105433,
@@ -43,5 +43,5 @@
   "id": 1609350,
   "name": "Bangkok",
   "cod": 200,
-  "_last_updated_utc": "2026-06-19T19:28:06.323Z"
+  "_last_updated_utc": "2026-06-19T21:02:59.894Z"
 }

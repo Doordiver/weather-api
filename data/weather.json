@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 30.51,
-    "feels_like": 36.31,
-    "temp_min": 30.51,
-    "temp_max": 33.85,
-    "pressure": 1008,
-    "humidity": 70,
-    "sea_level": 1008,
-    "grnd_level": 1007
+    "temp": 28.28,
+    "feels_like": 32.81,
+    "temp_min": 28.28,
+    "temp_max": 28.28,
+    "pressure": 1011,
+    "humidity": 80,
+    "sea_level": 1011,
+    "grnd_level": 1010
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.98,
-    "deg": 218,
-    "gust": 4.35
+    "speed": 1.95,
+    "deg": 248,
+    "gust": 2.8
   },
   "clouds": {
-    "all": 97
+    "all": 99
   },
-  "dt": 1782043458,
+  "dt": 1782056567,
   "sys": {
     "type": 2,
     "id": 2105433,
@@ -43,5 +43,5 @@
   "id": 1609350,
   "name": "Bangkok",
   "cod": 200,
-  "_last_updated_utc": "2026-06-21T12:06:25.209Z"
+  "_last_updated_utc": "2026-06-21T15:46:26.239Z"
 }

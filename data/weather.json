@@ -24,14 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.84,
-    "deg": 250,
-    "gust": 6.85
+    "speed": 3.78,
+    "deg": 251,
+    "gust": 6.3
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1782762326,
+  "dt": 1782767700,
   "sys": {
     "type": 2,
     "id": 2105433,
@@ -43,5 +43,5 @@
   "id": 1609350,
   "name": "Bangkok",
   "cod": 200,
-  "_last_updated_utc": "2026-06-29T19:45:27.016Z"
+  "_last_updated_utc": "2026-06-29T21:18:09.392Z"
 }

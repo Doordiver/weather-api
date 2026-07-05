@@ -8,30 +8,30 @@
       "id": 804,
       "main": "Clouds",
       "description": "overcast clouds",
-      "icon": "04n"
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 28.28,
-    "feels_like": 33.16,
-    "temp_min": 23.84,
-    "temp_max": 28.28,
-    "pressure": 1009,
-    "humidity": 82,
-    "sea_level": 1009,
-    "grnd_level": 1008
+    "temp": 30.51,
+    "feels_like": 36.87,
+    "temp_min": 30.51,
+    "temp_max": 31.07,
+    "pressure": 1010,
+    "humidity": 72,
+    "sea_level": 1010,
+    "grnd_level": 1009
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.21,
-    "deg": 300,
-    "gust": 1.57
+    "speed": 3.36,
+    "deg": 216,
+    "gust": 4.44
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1783205402,
+  "dt": 1783217442,
   "sys": {
     "type": 2,
     "id": 2105433,
@@ -43,5 +43,5 @@
   "id": 1609350,
   "name": "Bangkok",
   "cod": 200,
-  "_last_updated_utc": "2026-07-04T22:50:02.403Z"
+  "_last_updated_utc": "2026-07-05T02:14:33.732Z"
 }

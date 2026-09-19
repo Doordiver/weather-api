@@ -5,9 +5,9 @@
   },
   "weather": [
     {
-      "id": 501,
+      "id": 500,
       "main": "Rain",
-      "description": "moderate rain",
+      "description": "light rain",
       "icon": "10n"
     }
   ],
@@ -17,34 +17,34 @@
     "feels_like": 31.55,
     "temp_min": 26.94,
     "temp_max": 27.94,
-    "pressure": 1012,
+    "pressure": 1011,
     "humidity": 93,
-    "sea_level": 1012,
-    "grnd_level": 1012
+    "sea_level": 1011,
+    "grnd_level": 1010
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.78,
-    "deg": 160,
-    "gust": 6.22
+    "speed": 3.4,
+    "deg": 213,
+    "gust": 6.87
   },
   "rain": {
-    "1h": 1.88
+    "1h": 0.62
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1789836984,
+  "dt": 1789847131,
   "sys": {
     "type": 2,
     "id": 2112373,
     "country": "TH",
-    "sunrise": 1789772818,
-    "sunset": 1789816619
+    "sunrise": 1789859218,
+    "sunset": 1789902974
   },
   "timezone": 25200,
   "id": 1609350,
   "name": "Bangkok",
   "cod": 200,
-  "_last_updated_utc": "2026-09-19T16:56:24.253Z"
+  "_last_updated_utc": "2026-09-19T19:48:58.159Z"
 }
